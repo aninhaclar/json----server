@@ -1,0 +1,34 @@
+{
+  "shows": [
+    {
+      "id": "1",
+      "titulo": "Show do Coldplay",
+      "descricao": "Turnê mundial 2025",
+      "imagem": "https://via.placeholder.com/300x200?text=Coldplay"
+    },
+    {
+      "id": "2",
+      "titulo": "Festival Rock Brasil",
+      "descricao": "Os maiores nomes do rock nacional",
+      "imagem": "https://via.placeholder.com/300x200?text=Rock+Brasil"
+    },
+    {
+      "id": "3",
+      "titulo": "Anitta em Salvador",
+      "descricao": "Show exclusivo na capital baiana",
+      "imagem": "https://via.placeholder.com/300x200?text=Anitta"
+    },
+    {
+      "titulo": "Festa do Peão de Americana",
+      "descricao": "Rodeio maravilhoso, venha conhecer",
+      "imagem": "https://via.placeholder.com/300x200?text=Rock+Brasil",
+      "id": "4"
+    },
+    {
+      "id": "d188",
+      "titulo": "Festa do Peão de Barretos",
+      "descricao": "Os maiores nomes do sertanejo",
+      "imagem": "https://via.placeholder.com/300x200?text=Rock+Brasil"
+    }
+  ]
+}
